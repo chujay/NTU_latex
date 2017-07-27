@@ -1,0 +1,32 @@
+\ttl@change@i {\@ne }{chapter}{0em}{}{\makebox [4.1em][l] {第\CJKnumber {\thecontentslabel }章}}{}{\titlerule *[0.7pc]{.}\contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\contentsline {chapter}{摘要}{ii}{chapter*.1}
+\contentsline {chapter}{Abstract}{iii}{chapter*.2}
+\contentsline {chapter}{目錄}{v}{chapter*.3}
+\contentsline {chapter}{圖目錄}{vi}{chapter*.4}
+\contentsline {chapter}{表目錄}{vii}{chapter*.5}
+\contentsline {chapter}{\numberline {1}紡織染色製程背景介紹}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}文獻探討}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}染色製程參數與對色關聯性}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}染色製程參數優化技術}{4}{section.2.2}
+\contentsline {chapter}{\numberline {3}紡織染色製程現況}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}染色製程描述}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}現況問題描述}{9}{section.3.2}
+\contentsline {chapter}{\numberline {4}染整製程模型建立}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}製程參數因子描述}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}模型假設與符號表示}{14}{section.4.2}
+\contentsline {section}{\numberline {4.3}模型建立}{15}{section.4.3}
+\contentsline {chapter}{\numberline {5}染整製程參數優化方法}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}模型描述}{19}{section.5.1}
+\contentsline {section}{\numberline {5.2}非線性最佳化方法}{21}{section.5.2}
+\contentsline {section}{\numberline {5.3}染整製程模型求解}{25}{section.5.3}
+\contentsline {chapter}{\numberline {6}數值分析}{30}{chapter.6}
+\contentsline {section}{\numberline {6.1}模型數值化}{30}{section.6.1}
+\contentsline {section}{\numberline {6.2}染整製程數值求解}{34}{section.6.2}
+\contentsline {section}{\numberline {6.3}方法比較}{36}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}基因演算法概述}{36}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}基因演算法架構及求解}{37}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.4}最佳化參數組合與其他業界常用組合比較}{40}{section.6.4}
+\contentsline {chapter}{\numberline {7}結論}{43}{chapter.7}
+\contentsline {chapter}{參考文獻}{44}{appendix*.6}
+\contentsfinish 
