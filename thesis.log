@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.21)  27 JUL 2017 09:14
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.21)  27 JUL 2017 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1760,192 +1760,156 @@ File: watermark.pdf Graphic file (type QTm)
 
 ] (./Chapter_1/introduction.tex
 Chapter 1.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+) (./Chapter_2/literature_review.tex
 File: watermark.pdf Graphic file (type QTm)
+ <use  "watermark.pdf" > [1
 
-<use  "watermark.pdf" > [1
-
-
-]) (./Chapter_2/literature_review.tex
-File: watermark.pdf Graphic file (type QTm)
-
-<use  "watermark.pdf" > [2]
-Chapter 2.
-) (./Chapter_2/section1.tex
-File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [3
-
-])
-(./Chapter_2/section2.tex
-File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [4])
-(./Chapter_3/description.tex
-File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [5]
-Chapter 3.
-File: Graph/graph1.png Graphic file (type QTm)
-<use  "Graph/graph1.png" >) (./Chapter_3/section1.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: watermark.pdf Graphic file (type QTm)
-
-<use  "watermark.pdf" > [6
 
 ]
-File: Graph/datacolor.png Graphic file (type QTm)
- <use  "Graph/datacolor.png" >
-File: Graph/lab.png Graphic file (type QTm)
-
-<use  "Graph/lab.png" >
-File: Graph/process.png Graphic file (type QTm)
- <use  "Graph/process.png" >
-File: Graph/flowChart2.pdf Graphic file (type QTm)
-
-<use  "Graph/flowChart2.pdf" >
-File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [7]
+Chapter 2.
+) (./Chapter_2/section1.tex) (./Chapter_4/model_building.tex
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [8]) (./Chapter_3/section2.tex
-File: Graph/graph2.png Graphic file (type QTm)
+<use  "watermark.pdf" > [2
 
-<use  "Graph/graph2.png" >
+]
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [9])
-(./Chapter_4/model_building.tex
-File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [10]
-Chapter 4.
+ <use  "watermark.pdf" > [3]
+Chapter 3.
 ) (./Chapter_4/section1.tex
 File: Graph/graph3.png Graphic file (type QTm)
  <use  "Graph/graph3.png" >
 File: watermark.pdf Graphic file (type QTm)
  <use  "watermark.pdf" >
-[11
+[4
 
 ]
 File: Graph/graph4.png Graphic file (type QTm)
  <use  "Graph/graph4.png" >
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [12])
+ <use  "watermark.pdf" > [5])
 (./Chapter_4/section2.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [13]
+<use  "watermark.pdf" > [6]
 
 LaTeX Warning: The counter will not be printed.
              The label is:  on input line 14.
 
 File: watermark.pdf Graphic file (type QTm)
-<use  "watermark.pdf" > [14]) (./Chapter_4/section3.tex
+<use  "watermark.pdf" > [7]) (./Chapter_4/section3.tex
 Underfull \vbox (badness 1590) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [15]
+<use  "watermark.pdf" > [8]
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [16]
-File: watermark.pdf Graphic file (type QTm)
-
-<use  "watermark.pdf" > [17]) (./Chapter_5/opt_method.tex
+ <use  "watermark.pdf" > [9]
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [18]
-Chapter 5.
+<use  "watermark.pdf" > [10]) (./Chapter_5/opt_method.tex
+File: watermark.pdf Graphic file (type QTm)
+
+<use  "watermark.pdf" > [11]
+Chapter 4.
+
+LaTeX Warning: Reference `c:ch3.1' on page 12 undefined on input line 4.
+
+
+LaTeX Warning: Reference `c:ch3.2' on page 12 undefined on input line 4.
+
 ) (./Chapter_5/section1.tex
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [19
+ <use  "watermark.pdf" > [12
 
 ]
 Underfull \vbox (badness 2538) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [20]) (./Chapter_5/section2.tex
+<use  "watermark.pdf" > [13]) (./Chapter_5/section2.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [21]
+<use  "watermark.pdf" > [14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [22]
+<use  "watermark.pdf" > [15]
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
 File: watermark.pdf Graphic file (type QTm)
-<use  "watermark.pdf" > [23]
+<use  "watermark.pdf" > [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [24] (./Graph/flowChart3.tex))
+<use  "watermark.pdf" > [17] (./Graph/flowChart3.tex))
 (./Chapter_5/section3.tex
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [25]
+ <use  "watermark.pdf" > [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [26]
+<use  "watermark.pdf" > [19]
 Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
 
 File: watermark.pdf Graphic file (type QTm)
-<use  "watermark.pdf" > [27]
+<use  "watermark.pdf" > [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [28]) (./Chapter_6/numerical_analysis.tex
+<use  "watermark.pdf" > [21]) (./Chapter_6/numerical_analysis.tex
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [29]
-Chapter 6.
+<use  "watermark.pdf" > [22]
+Chapter 5.
 ) (./Chapter_6/section1.tex
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [30
+ <use  "watermark.pdf" > [23
 
 ] (./Graph/table1.tex)
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [31] (./Graph/table2.tex)
+<use  "watermark.pdf" > [24] (./Graph/table2.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [32]
+<use  "watermark.pdf" > [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [33]) (./Chapter_6/section2.tex (./Graph/table6.tex)
+<use  "watermark.pdf" > [26]) (./Chapter_6/section2.tex (./Graph/table6.tex)
 (./Graph/table5.tex)
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [34] (./Graph/table4.tex)
+ <use  "watermark.pdf" > [27] (./Graph/table4.tex)
 (./Graph/table3.tex)) (./Chapter_6/section3.tex
 File: watermark.pdf Graphic file (type QTm)
  <use  "watermark.pdf" >
-[35]) (./Chapter_6/section3.1.tex
+[28]) (./Chapter_6/section3.1.tex
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [36])
+ <use  "watermark.pdf" > [29])
 (./Chapter_6/section3.2.tex (./Graph/flowChart4.tex)
 
 LaTeX Warning: The counter will not be printed.
              The label is:  on input line 12.
 
 File: watermark.pdf Graphic file (type QTm)
-<use  "watermark.pdf" > [37]
+<use  "watermark.pdf" > [30]
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [38]
+ <use  "watermark.pdf" > [31]
 File: Graph/GAcost.png Graphic file (type QTm)
 
 <use  "Graph/GAcost.png" >
@@ -1959,45 +1923,49 @@ File: Graph/GADeltaE.png Graphic file (type QTm)
 <use  "Graph/GADeltaE.png" > (./Graph/table7.tex)
 File: watermark.pdf Graphic file (type QTm)
  <use  "watermark.pdf" >
-[39]) (./Chapter_6/section4.tex (./Graph/table8.tex)
+[32]) (./Chapter_6/section4.tex (./Graph/table8.tex)
 File: watermark.pdf Graphic file (type QTm)
  <use  "watermark.pdf" >
-[40]
+[33]
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [41] (./Graph/table9.tex))
+ <use  "watermark.pdf" > [34] (./Graph/table9.tex))
 (./Chapter_7/conclution.tex
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [42]
-Chapter 7.
+ <use  "watermark.pdf" > [35]
+Chapter 6.
 )
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [43
+ <use  "watermark.pdf" > [36
 
 ] (./thesis.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: watermark.pdf Graphic file (type QTm)
 
-<use  "watermark.pdf" > [44
+<use  "watermark.pdf" > [37
 
 
 ])
 File: watermark.pdf Graphic file (type QTm)
- <use  "watermark.pdf" > [45]
+ <use  "watermark.pdf" > [38]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
  (./thesis.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 110.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 110.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 38471 strings out of 493591
- 768350 string characters out of 6143546
- 799482 words of memory out of 5000000
- 41263 multiletter control sequences out of 15000+600000
+ 38462 strings out of 493591
+ 769586 string characters out of 6143546
+ 798640 words of memory out of 5000000
+ 41269 multiletter control sequences out of 15000+600000
  7674 words of font info for 60 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  61i,16n,72p,10457b,798s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (52 pages).
+Output written on thesis.pdf (45 pages).

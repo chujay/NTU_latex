@@ -212,36 +212,6 @@ Huang, K\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Ibrahim%
-, Youssef%
-, Helal%
-\BCBL {}\ \BBA {} Shaaban%
-}{%
-Ibrahim%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2003}}%
-}]{%
-Ibrahim.etc}
-\APACinsertmetastar {%
-Ibrahim.etc}%
-\begin{APACrefauthors}%
-Ibrahim, N\BPBI A.%
-, Youssef, M\BPBI A.%
-, Helal, M\BPBI H.%
-\BCBL {}\ \BBA {} Shaaban, M\BPBI F.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Exhaust dyeing of polyester based textiles using high
-  temperature alkaline conditions} {Exhaust dyeing of polyester based textiles
-  using high temperature alkaline conditions}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Applied Polymer Science}{89}{13}{3563-3573}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Jasper%
 , Kovacs%
 \BCBL {}\ \BBA {} Berkstresser%
@@ -320,30 +290,6 @@ Nocedal, J.%
   programming}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Springer New York.}{}{}{529-562}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Palamutcu%
-}{%
-Palamutcu%
-}{%
-{\protect \APACyear {2010}}%
-}]{%
-Palamutcu}
-\APACinsertmetastar {%
-Palamutcu}%
-\begin{APACrefauthors}%
-Palamutcu, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Electric energy consumption in the cotton textile
-  processing stages} {Electric energy consumption in the cotton textile
-  processing stages}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Energy}{35}{7}{2945-2952}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
